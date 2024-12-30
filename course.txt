@@ -1,7 +1,0 @@
-Devops
-Terraform
-Docker
-Git
-Jenkins
-Ansible
-CICD
